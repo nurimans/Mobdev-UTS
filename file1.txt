@@ -1,0 +1,10 @@
+git init
+
+git add*.* (mengirim semua file di dalam folder)
+
+git config --global user.email "nurimanihidayat.nih@gmail.com"
+
+git config --global user.name "nurimans"
+
+
+git commit -m "versi projectnya"
